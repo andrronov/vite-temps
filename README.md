@@ -1,0 +1,1 @@
+#My custom templates for Vite
